@@ -1,0 +1,11 @@
+crewai
+sqlalchemy
+markdown
+python-dotenv
+beautifulsoup4
+requests
+python-dateutil
+pydantic
+uvicorn
+fastapi
+google-generativeai
